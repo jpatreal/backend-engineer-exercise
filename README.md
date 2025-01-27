@@ -60,7 +60,6 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/jpatreal/backend-engineer-exercise.git
-   cd <repository-folder>
    ```
 
 2. Install dependencies:
